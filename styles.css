@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 10px 10px;
+  background-color: beige;
+}
+
+#matterCanvas {
+  width: 800px;
+  height: 600px;
+}
